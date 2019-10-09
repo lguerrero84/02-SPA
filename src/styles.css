@@ -1,9 +1,17 @@
+body {
+    padding-bottom: 50px;
+}
+
 .main-container {
     margin-top: 20px;
 }
 
 
 /*  animaciones*/
+
+.img-logo {
+    width: 120px;
+}
 
 .animated {
     -webkit-animation-duration: 1s;
